@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-﻿Mon introduction se fera sur le réchauffement climatique et les conséquences directs..
-=======
-﻿Mon introduction se fera sur le réchauffement climatique et les conséquences directs..
->>>>>>> gitou
+
+﻿Mon introduction se fera sur le réchauffement climatique et les conséquences directs !!!
+
